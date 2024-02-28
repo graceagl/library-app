@@ -46,12 +46,13 @@
             color: inherit;
             text-decoration: inherit
         }
-
+/* 
         svg,
         video {
             display: block;
             vertical-align: middle
-        }
+        } 
+*/
 
         video {
             max-width: 100%;

@@ -12,7 +12,7 @@
 
     <!-- Styles -->
     <style>
-        /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
         html {
             line-height: 1.15;
             -webkit-text-size-adjust: 100%
@@ -23,7 +23,7 @@
         }
 
         a {
-            background-color: transparent
+            background-color: darkcyan
         }
 
         [hidden] {
@@ -47,13 +47,13 @@
             text-decoration: inherit
         }
 
-        /* 
+        
         svg,
         video {
             display: block;
             vertical-align: middle
         } 
-*/
+
 
         video {
             max-width: 100%;

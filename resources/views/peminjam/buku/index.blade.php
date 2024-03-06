@@ -2,4 +2,4 @@
 
 @section('content')
     <livewire:peminjam.buku></livewire:peminjam.buku>
-@endsection
+@endsection 

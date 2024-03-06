@@ -91,5 +91,16 @@ class BukuSeeder extends Seeder
             'rak_id' => 13,
             'stok' => 10
         ]);
+
+        Buku::create([
+            'judul' => 'ikigai',
+            'slug' => Str::slug('ikigai'),
+            'sampul' => 'buku/ikigai.jpg',
+            'penulis' => 'kakshi minamoto',
+            'penerbit_id' => 2,
+            'kategori_id' => 6,
+            'rak_id' => 12,
+            'stok' => 15
+        ]);
     }
 }

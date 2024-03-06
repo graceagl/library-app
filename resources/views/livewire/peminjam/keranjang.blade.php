@@ -5,6 +5,7 @@
         </div>
     </div>
 
+    @livewireScripts
     @include('admin-lte/flash')
 
     <div class="row">

@@ -16,7 +16,7 @@ var myChart = new Chart(ctx, {
                 @endforeach
             ],
             backgroundColor: '#f012be',
-            borderWidth: 1
+            borderWidth: 1;
         }]
     },
     options: {
